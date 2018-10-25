@@ -20,7 +20,7 @@ This library provides three different kinds of progressbar for you! It's very si
     在app的build.gradle添加如下代码：
 
         dependencies {
-    	            implementation 'com.github.yuanchaowhut:PrettyProgressBar:v1.0'
+    	            implementation 'com.github.yuanchaowhut:PrettyProgressBar:v1.3'
     	}
 
 2. 在Activity中的简单使用

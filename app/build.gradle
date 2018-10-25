@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.0"
+    buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "cn.com.egova.prettyprogressbar"
         minSdkVersion 16
@@ -26,4 +26,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     implementation project(':progress')
+//    implementation 'com.github.yuanchaowhut:PrettyProgressBar:v1.3'
  }
