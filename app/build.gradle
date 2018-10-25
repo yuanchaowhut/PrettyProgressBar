@@ -27,5 +27,4 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile project(':progress')
-//    compile 'com.github.yuanchaowhut:TreeApp:v1.6'
-}
+ }
