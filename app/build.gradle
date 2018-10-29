@@ -27,4 +27,4 @@ dependencies {
 
     implementation project(':progress')
 //    implementation 'com.github.yuanchaowhut:PrettyProgressBar:v1.3'
- }
+}
